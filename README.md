@@ -106,3 +106,16 @@ When the user opens gallery.html?series=look0&img=0:
 	3.	Next / Previous arrows and keyboard arrows loop only inside that series.
 
 If series is missing or unknown, the code falls back to a global ALL_IMAGES list.
+
+Credits
+	•	Retouching & concept: Olena Grebenetska
+	•	Photography: Various photographers (credited per project on the site)
+	•	Design & code: Custom HTML/CSS/JS
+
+⸻
+
+License
+
+The code can be reused and adapted for personal or educational purposes.
+All images are © Olena Grebenetska and respective photographers and may not be copied or reused without explicit permission.
+
